@@ -6,3 +6,7 @@ hii this is new progrm
 dev rebase 
 5555
 6666
+7777
+8888
+:wq
+
